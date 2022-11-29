@@ -1,0 +1,17 @@
+.blog-item-container:first-child {
+  margin-top: 30px;
+}
+
+.blog-item-container {
+  background-color: rgb(64, 63, 63);
+  height: 100px;
+  width: 650px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-item-container:hover {
+  background-color: rgba(252, 182, 107, 0.5);
+  color: #fff;
+}

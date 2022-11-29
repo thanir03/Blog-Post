@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-weight: bolder;
+}
+
+.micro-details {
+  margin-top: 20px;
+  display: flex;
+  gap: 30px;
+}
+.article {
+  margin-top: 30px;
+  width: 500px;
+}
+
+.delete {
+  margin-top: 30px;
+  background-color: red;
+}

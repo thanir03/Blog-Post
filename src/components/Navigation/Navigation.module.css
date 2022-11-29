@@ -1,0 +1,30 @@
+.navbar-container {
+  padding: 20px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+
+li {
+  list-style-type: none;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover,
+.active {
+  color: #fcb66b !important;
+}
+
+
