@@ -32,3 +32,8 @@ code {
 .button:hover {
   background-color: rgba(252, 182, 107, 0.8);
 }
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
